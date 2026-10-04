@@ -1,42 +1,94 @@
 {
-  "brand": "VirtuosWebsite",
-  "title": "VirtuosWebsite — Création de sites web premium",
-  "meta_description": "VirtuosWebsite conçoit et développe des sites web premium sur mesure : design soigné, performance et référencement, du premier croquis à la mise en ligne.",
+  "brand": "Virtuos Studio",
+  "title": "Virtuos Studio — Concept de site vitrine en verre 3D",
+  "meta_description": "Concept de Virtuos Studio, agence web au Perreux-sur-Marne : un site vitrine en verre 3D, rapide et sur-mesure, du premier croquis à la mise en ligne.",
   "email": "adeldjeb208@gmail.com",
   "lang": "fr",
   "shape": "/Users/admin/Desktop/virtuoswebsite/brief/symbole-virtuos.svg",
   "mark": "/Users/admin/Desktop/virtuoswebsite/brief/symbole-virtuos.svg",
-  "palette": ["#4d8cff", "#8f52f5", "#fa579e", "#ff9438", "#99123a"],
-  "nav": ["Accueil", "À propos", "Services", "Résultats", "Contact"],
+  "palette": [
+    "#4d8cff",
+    "#8f52f5",
+    "#fa579e",
+    "#ff9438",
+    "#99123a"
+  ],
+  "nav": [
+    "Accueil",
+    "À propos",
+    "Services",
+    "Résultats",
+    "Contact"
+  ],
   "hero": {
-    "title": ["Votre site web,", "en version premium"],
+    "title": [
+      "Votre site web,",
+      "en version premium"
+    ],
     "lead": "Nous concevons et développons des sites web sur mesure pour les entreprises, indépendants et marques qui veulent se démarquer. Un design soigné, rapide et visible, du premier croquis à la mise en ligne."
   },
   "about": {
-    "title": ["Un studio", "web exigeant"],
-    "text": "VirtuosWebsite est un studio de création web spécialisé dans les sites vitrines haut de gamme. Chaque projet est dessiné sur mesure, sans thème générique, puis développé pour charger vite et bien se classer sur Google. Vous gardez un seul interlocuteur, du brief à la mise en ligne."
+    "title": [
+      "Un studio",
+      "web exigeant"
+    ],
+    "text": "Virtuos Studio est un studio de création web spécialisé dans les sites vitrines haut de gamme. Chaque projet est dessiné sur mesure, sans thème générique, puis développé pour charger vite et bien se classer sur Google. Vous gardez un seul interlocuteur, du brief à la mise en ligne."
   },
   "benefits": {
-    "title": ["Ce que nous", "créons pour vous"],
+    "title": [
+      "Ce que nous",
+      "créons pour vous"
+    ],
     "items": [
-      { "icon": "spark", "text": "Un design sur mesure, pensé pour votre marque et vos clients." },
-      { "icon": "code", "text": "Un développement rapide et propre, parfait sur tous les écrans." },
-      { "icon": "target", "text": "Un référencement naturel intégré dès la conception du site." },
-      { "icon": "shield", "text": "Hébergement, sécurité et maintenance pris en charge après la mise en ligne." }
+      {
+        "icon": "spark",
+        "text": "Un design sur mesure, pensé pour votre marque et vos clients."
+      },
+      {
+        "icon": "code",
+        "text": "Un développement rapide et propre, parfait sur tous les écrans."
+      },
+      {
+        "icon": "target",
+        "text": "Un référencement naturel intégré dès la conception du site."
+      },
+      {
+        "icon": "shield",
+        "text": "Hébergement, sécurité et maintenance pris en charge après la mise en ligne."
+      }
     ]
   },
   "results": {
-    "title": ["Des sites", "qui performent"],
+    "title": [
+      "Des sites",
+      "qui performent"
+    ],
     "lead": "Moyennes constatées sur nos derniers projets livrés.",
     "figures": []
   },
   "figures": [
-    { "value": 1.2, "decimals": 1, "suffix": " s", "label": "de chargement<br>moyen par page" },
-    { "value": 140, "suffix": " %", "label": "de contacts en plus<br>après une refonte" },
-    { "value": 30, "suffix": " j", "label": "de délai moyen<br>de mise en ligne" }
+    {
+      "value": 1.2,
+      "decimals": 1,
+      "suffix": " s",
+      "label": "de chargement<br>moyen par page"
+    },
+    {
+      "value": 140,
+      "suffix": " %",
+      "label": "de contacts en plus<br>après une refonte"
+    },
+    {
+      "value": 30,
+      "suffix": " j",
+      "label": "de délai moyen<br>de mise en ligne"
+    }
   ],
   "contact": {
-    "title": ["Parlons de", "votre futur site."],
+    "title": [
+      "Parlons de",
+      "votre futur site."
+    ],
     "lead": "Une création, une refonte, une idée à concrétiser ?<br>Écrivez-nous."
   }
 }
